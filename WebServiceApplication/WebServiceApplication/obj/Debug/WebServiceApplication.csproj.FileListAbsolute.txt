@@ -1,0 +1,40 @@
+D:\WebServiceApplication\WebServiceApplication\bin\roslyn\csc.exe
+D:\WebServiceApplication\WebServiceApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebServiceApplication\WebServiceApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebServiceApplication\WebServiceApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebServiceApplication\WebServiceApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebServiceApplication\WebServiceApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebServiceApplication\WebServiceApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebServiceApplication\WebServiceApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\WebServiceApplication\WebServiceApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebServiceApplication\WebServiceApplication\bin\roslyn\vbc.exe
+D:\WebServiceApplication\WebServiceApplication\bin\roslyn\VBCSCompiler.exe
+D:\WebServiceApplication\WebServiceApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\WebServiceApplication\WebServiceApplication\bin\WebServiceApplication.dll.config
+D:\WebServiceApplication\WebServiceApplication\bin\WebServiceApplication.dll
+D:\WebServiceApplication\WebServiceApplication\bin\WebServiceApplication.pdb
+D:\WebServiceApplication\WebServiceApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebServiceApplication\WebServiceApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebServiceApplication\WebServiceApplication\obj\Debug\WebServiceApplication.csprojResolveAssemblyReference.cache
+D:\WebServiceApplication\WebServiceApplication\obj\Debug\WebServiceApplication.dll
+D:\WebServiceApplication\WebServiceApplication\obj\Debug\WebServiceApplication.pdb
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\roslyn\csc.exe
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\roslyn\vbc.exe
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\WebServiceApplication.dll.config
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\WebServiceApplication.dll
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\WebServiceApplication.pdb
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\obj\Debug\WebServiceApplication.csprojResolveAssemblyReference.cache
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\obj\Debug\WebServiceApplication.dll
+C:\Users\Andi chou\Desktop\WebServiceApplication\WebServiceApplication\obj\Debug\WebServiceApplication.pdb

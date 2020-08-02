@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WebViewApplication.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WebViewApplication_CustomerAPI_UserController" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:57365/Controller(2)/CustomerController.asmx</Value>
+    </Setting>
+    <Setting Name="WebViewApplication_PowderController_PowderController" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:57365/Controller(2)/PowderController.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

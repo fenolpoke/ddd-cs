@@ -1,0 +1,40 @@
+D:\WebViewApplication\WebViewApplication\bin\roslyn\csc.exe
+D:\WebViewApplication\WebViewApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebViewApplication\WebViewApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebViewApplication\WebViewApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebViewApplication\WebViewApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebViewApplication\WebViewApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebViewApplication\WebViewApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebViewApplication\WebViewApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\WebViewApplication\WebViewApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebViewApplication\WebViewApplication\bin\roslyn\vbc.exe
+D:\WebViewApplication\WebViewApplication\bin\roslyn\VBCSCompiler.exe
+D:\WebViewApplication\WebViewApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\WebViewApplication\WebViewApplication\bin\WebViewApplication.dll.config
+D:\WebViewApplication\WebViewApplication\bin\WebViewApplication.dll
+D:\WebViewApplication\WebViewApplication\bin\WebViewApplication.pdb
+D:\WebViewApplication\WebViewApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebViewApplication\WebViewApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebViewApplication\WebViewApplication\obj\Debug\WebViewApplication.csprojResolveAssemblyReference.cache
+D:\WebViewApplication\WebViewApplication\obj\Debug\WebViewApplication.dll
+D:\WebViewApplication\WebViewApplication\obj\Debug\WebViewApplication.pdb
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\obj\Debug\WebViewApplication.csprojResolveAssemblyReference.cache
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\obj\Debug\WebViewApplication.dll
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\obj\Debug\WebViewApplication.pdb
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\roslyn\csc.exe
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\roslyn\vbc.exe
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\WebViewApplication.dll.config
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\WebViewApplication.dll
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\WebViewApplication.pdb
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andi chou\Desktop\WebViewApplication\WebViewApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

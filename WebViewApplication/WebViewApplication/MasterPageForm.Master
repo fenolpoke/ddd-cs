@@ -1,0 +1,20 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPageForm.master.cs" Inherits="WebViewApplication.MasterPageForm" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head runat="server">
+        <title><asp:ContentPlaceHolder ID="title" runat="server"></asp:ContentPlaceHolder></title>
+        <asp:ContentPlaceHolder ID="header" runat="server">
+        </asp:ContentPlaceHolder>
+    </head>
+    <body>
+        <form id="form" runat="server">
+            <div>
+                <asp:ContentPlaceHolder ID="content" runat="server">
+        
+                </asp:ContentPlaceHolder>
+            </div>
+        </form>
+    </body>
+</html>
